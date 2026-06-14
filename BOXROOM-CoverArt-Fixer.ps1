@@ -1,4 +1,3 @@
-```powershell
 # BOXROOM Missing Cover Repair
 # Copies Steam's library_600x900.jpg to BOXROOM's boxart.jpg
 # ONLY if boxart.jpg does not already exist
@@ -54,4 +53,3 @@ Write-Host "Copied : $copied"
 Write-Host "Skipped: $skipped"
 Write-Host "Missing: $missing"
 Write-Host "============================="
-```
